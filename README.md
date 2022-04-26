@@ -1,9 +1,5 @@
 # Desafio 01: O Despertar da Força
 
-## Peso:
-
-3 pontos
-
 ## Objetivo:
 
 Escrever uma função para permitir que Rey alcance seu mestre Luke Skywalker no planeta Ahch-To.
@@ -47,10 +43,6 @@ O resultado esperado deverá ser um array de strings com os seguintes valores [ 
 
 # Desafio 02: O Mapa Binário
 
-## Peso:
-
-3 pontos
-
 ## Objetivo:
 
 Escrever uma função que, dado um número inteiro positivo N, retorna o comprimento de seu intervalo binário mais longo. A função deve retornar 0 se N não contiver um intervalo binário.
@@ -72,10 +64,6 @@ Dado N = 537, a função deve retornar 4, porque N possui uma representação bi
 ```
 
 # Desafio 03: Relatório para Diretoria
-
-## Peso:
-
-5 pontos
 
 ## Objetivo:
 
